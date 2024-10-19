@@ -1,0 +1,15 @@
+.card{
+    
+    color: blue;
+    width: 24%;
+    margin: 5px 20px;
+    border: 2px solid brown;
+    
+}
+#test{
+  position: absolute;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+   
+}
